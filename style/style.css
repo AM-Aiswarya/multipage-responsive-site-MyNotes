@@ -86,15 +86,7 @@ header .navbar-brand {
     overflow-x: hidden;
     padding: 14vmin 18vmin;
   }
-  
-  footer p > span {
-    color: #58abdb;
-  }
-  
-  footer input {
-    border: none !important;
-  }
-  
+
   footer input::placeholder {
     color: white !important;
   }

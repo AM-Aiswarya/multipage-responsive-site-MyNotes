@@ -32,16 +32,11 @@ header{
 header .nav-item:last-child {
     padding-right: 10.5em;
   }
-header.nav-item{
-    padding: 0.9em;
-}
+
 header .navbar-brand {
     padding-left: 8rem;
   }
-  
-  header .nav-link:hover {
-    color: black;
-  }
+
   
   header .row .col-md-7 {
     padding: 22vmin 1vmin;
@@ -85,10 +80,7 @@ header .navbar-brand {
       font-weight: bold;
   }
   
-  .primary-btn {
-    border-radius: 30px;
-    font-weight: bold;
-  }
+
   footer {
     background: rgba(0, 0, 0, 0.815);
     overflow-x: hidden;
